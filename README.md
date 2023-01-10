@@ -1,1 +1,76 @@
-# mubarak.new
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>saylani welfarw</title>
+  <link rel="stylesheet" href="h.css">
+</head>
+
+<body>
+  <div class="box">
+  
+    
+   
+ <img width="100%" height=100% src="pic.png" alt="i">
+ <h1>Donate us to support</h1>
+<h2>flood-affected</h2> <h1>families in Pakistan</h1>
+  </div>
+<fieldset>
+  
+
+<p> We are distributing Ration Bags</p>
+ <p>Saylani Welfare is on the ground and already working with local communities to assess how best to support affected families, who urgently need food, Ration, shelter, bedding, Medical Facility and hygiene items.</p>
+ 
+  <h1>  Help Us to make lives better</h1>
+   <center> <h4>Quick Donation  </h4></center>
+    <button type="">Electricity bill support fund</button>
+    <button type="submit">Flood Relief</button>
+    <br><br>
+    <button type="submit">Help the needy in winter</button>
+    <button type="submit">Food</button>
+    <br><br>
+    <button1 type="">donate</button1>
+</fieldset>
+    <br><br>
+    <img  width="100%" height="100%" src="pic2.png" alt="pic2.png">
+    <br><br>
+    <center> <h1> what we are doing</h1></center>
+     
+    <img width="100% "height="90%" src="pic4.png" alt="pic4.png">
+    <br><br>
+    <img width="100%"height="90%" src="pic3.png" alt="">
+    <br><br>
+    <img width="100%" height="90%" src="pic5.png" alt="pic5">
+    <br><br>
+    <img  width="100%" height="90%" src="pic6.png" alt="pic6.png">
+    <br><br>
+    <img width="100%" height="90%" src="pic7.png" alt="pic7.png">
+    <br><br>
+    <img width="100%" height="90%" src="pic8.png" alt="pic8.png">
+    <br><br>
+  <a href="./h1.html">
+      <img width="400" height="350" src="pic9.png" alt="pic9.png"></a>
+    <br><br>
+    <img width="400"height="350" src="pic10.png" alt="pic10.png">
+    <br><br>
+    <img width="400" height="350" src="pic11.png" alt="pic11.png">
+    <br><br>
+    <img width="400" height="350" src="pic12.png" alt="pic12.png">
+    <br><br>
+   <center><h1> Other </h1>
+  <h1> projets</h1>
+   </center>
+   <h3>• Hepatitis</h3>
+   <p>Saylani Welfare has also set up a clinic for the best treatment of hepatitis patients where hepatitis patients are being treated .</p>
+   <h3>• Housing Society</h3>
+<p>Saylani Welfare is also providing its own home facility for the homeless people. So far, thousands of houses and flats have been constructed and given in easy installments .</p>
+<h3>• IT Literacy</h3>
+<p> We are committed to developing more than 1 million software developers, which will add about 100 billion annually to Pakistan's economy and help ease the debt burden on Pakistan .</p>
+<h3>• Tharparkar</h3>
+ <p>In Tharparkar, Saylani has set up several schools and ro plants, dug wells and brought the children there to Karachi and taught them modern technology .</p>
+
+</body>
+
+</html># mubarak.new
